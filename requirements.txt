@@ -1,0 +1,10 @@
+win10toast
+gTTS
+playsound
+pyttsx3
+face_recognition
+numpy
+emoji
+mysql.connector
+requests
+tabulate
